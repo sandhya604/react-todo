@@ -1,6 +1,6 @@
 A Simple todo application built with react and tailwindcss.
 
-Using localstorage as a storage provider for the todo stroing it's balzingly fast with ulter second
+Using localstorage as a storage provider for the todo stroing it's blazingly fast with ulter second
 response from application.
 
 Deplyment is here -> https://react-todo-seven-jet.vercel.app/
