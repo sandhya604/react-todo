@@ -1,3 +1,9 @@
+A Simple todo application built with react and tailwindcss.
+
+Using localstorage as a storage provider for the todo stroing it's balzingly fast with ulter second
+response from application.
+
+Deplyment is here -> https://react-todo-seven-jet.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
